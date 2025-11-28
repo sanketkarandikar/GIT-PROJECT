@@ -1,3 +1,12 @@
 This is another file.
 
 This is for next commit.
+
+.js 
+.py 
+.json 
+.cpp 
+
+.png 
+.jpeg
+
