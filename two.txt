@@ -2,9 +2,4 @@ Hello everyone!
 
 This is the new line!
 
-.json
-.js
-.ts 
-.py 
-.csv
-New thing is coming!
+The formats were removed!
